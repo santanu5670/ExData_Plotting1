@@ -67,7 +67,7 @@ reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/santanu5670/ExData_Plotting1)
+[https://github.com/santanu5670/ExData_Plotting1](https://github.com/santanu5670/ExData_Plotting1)
 
 
 For each plot you should
